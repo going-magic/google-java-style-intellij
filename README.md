@@ -4,7 +4,7 @@
 3. Search Code Style in Settings of IntelliJ and select Java, change the schema to GoogleStyle and save it.
 
 ###Note: 
-*[Google Java Style](http://google.github.io/styleguide/javaguide.html)
+*[Google Java Style](http://google.github.io/styleguide/javaguide.html)<br>
 *[Directory Used by IntelliJ IDEA to Store Settings](https://www.jetbrains.com/idea/help/directories-used-by-intellij-idea-to-store-settings-caches-plugins-and-logs.html)
 
 <p>
